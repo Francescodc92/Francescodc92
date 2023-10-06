@@ -22,6 +22,7 @@
 </div>
 
 ## Progetti di cui vado più fiero
+- [progetto finale vuejs - html css vuejs sass swiperjs](https://github.com/Francescodc92/proj-html-vuejs)
 - [Campo minato - html css js](https://github.com/Francescodc92/js-campominato-dom)
 - [yu-gi-oh - html css js vuejs axios](https://github.com/Francescodc92/vite-yu-gi-oh)
 - [Boolflix-netflix - html css js vuejs axios](https://github.com/Francescodc92/vite-boolflix)
