@@ -1,6 +1,7 @@
 ### Ciao! Mi chiamo Francesco Benvenuto sul mio GitHub👋
 <div>
  Mi presento,  Sono sempre stato un ragazzo appassionato di tecnologia in generale ma ignoravo l’esistenza della programmazione fino ad un anno e mezzo fà ,più o meno, sono molto legato a tutto quello che riguarda la programmazione perché sono curioso di natura , amo scoprire cose nuove e amo capire il funzionamento che c’è dietro anche ad una semplice funzione , sono dell’idea che se capisco come una cosa funziona posso manipolarla ed usarla in maniera strategica e non meccanica. Mi rendo conto che ho ancora molto da imparare ma sono pronto a dare il 100%
+ 
 </div>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francesco-dicorpo/)
