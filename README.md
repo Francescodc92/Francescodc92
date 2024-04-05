@@ -29,7 +29,7 @@
   <img src="https://img.shields.io/badge/express.js-%23000000.svg?logo=express&logoColor=white&style=for-the-badge" alt="Express.js" />
   <img src="https://img.shields.io/badge/react-%2320232a.svg?logo=react&logoColor=%2361dafb&style=for-the-badge" alt="React" />
   <img src="https://img.shields.io/badge/mongodb-%234ea94b.svg?logo=mongodb&logoColor=white&style=for-the-badge" alt="MongoDB" />
- <img src="[![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)" alt="Docker" />
+ [![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 </div>
 
 ## Progetti di cui vado più fiero
