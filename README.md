@@ -22,6 +22,12 @@
   <img alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 </div>
 
+## Tecnologie che stò studiando
+<div>
+  <img alt="nodejs" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/node.js-%2343853d.svg?logo=node.js&logoColor=white&style=for-the-badge" alt="Node.js" />
+</div>
+
 ## Progetti di cui vado più fiero
 - [progetto finale vuejs - html css vuejs sass swiperjs](https://github.com/Francescodc92/proj-html-vuejs)
 - [Campo minato - html css js](https://github.com/Francescodc92/js-campominato-dom)
