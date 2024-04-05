@@ -27,6 +27,7 @@
   <img src="https://img.shields.io/badge/node.js-%2343853d.svg?logo=node.js&logoColor=white&style=for-the-badge" alt="Node.js" />
   <img src="https://img.shields.io/badge/typescript-%23007acc.svg?logo=typescript&logoColor=white&style=for-the-badge" alt="TypeScript" />
   <img src="https://img.shields.io/badge/express.js-%23000000.svg?logo=express&logoColor=white&style=for-the-badge" alt="Express.js" />
+  <img src="https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white" alt="Fastify" />
   <img src="https://img.shields.io/badge/react-%2320232a.svg?logo=react&logoColor=%2361dafb&style=for-the-badge" alt="React" />
   <img src="https://img.shields.io/badge/mongodb-%234ea94b.svg?logo=mongodb&logoColor=white&style=for-the-badge" alt="MongoDB" />
   <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" alt="Prisma" />
