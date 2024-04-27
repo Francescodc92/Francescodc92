@@ -9,6 +9,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Francescodc92)](https://github.com/anuraghazra/github-readme-stats)
 ![Francescodc92 GitHub stats](https://github-readme-stats.vercel.app/api?username=Francescodc92&show_icons=true&theme=dracula)
 
+<div style="display:flex">
 ## Tecnologie che uso 
 <div>
   <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -32,6 +33,7 @@
   <img src="https://img.shields.io/badge/mongodb-%234ea94b.svg?logo=mongodb&logoColor=white&style=for-the-badge" alt="MongoDB" />
   <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" alt="Prisma" />
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="docker" /> 
+</div>
 </div>
 
 ## Progetti di cui vado più fiero
