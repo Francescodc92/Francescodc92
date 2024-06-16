@@ -36,9 +36,7 @@
 </div>
 
 
-## Progetti di cui vado più fiero
-- [progetto finale vuejs - html css vuejs sass swiperjs](https://github.com/Francescodc92/proj-html-vuejs)
+## Progetti
+- [progetto pizzeria fullStack frontend](https://github.com/Francescodc92/pizzeria-frontend)
+- [progetto pizzeria fullStack backend laravel 11](https://github.com/Francescodc92/pizzeria-backend-laravel-11)
 - [Campo minato - html css js](https://github.com/Francescodc92/js-campominato-dom)
-- [yu-gi-oh - html css js vuejs axios](https://github.com/Francescodc92/vite-yu-gi-oh)
-- [Boolflix-netflix - html css js vuejs axios](https://github.com/Francescodc92/vite-boolflix)
-- [Boolzap-whatsapp - html css js vuejs tailwind](https://github.com/Francescodc92/vue-boolzapp)
