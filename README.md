@@ -33,9 +33,9 @@
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="docker" /> 
 </div>
 
-## Progetti
+## Progetti 
+- [progetto pizzeria fullStack frontend versione React 2025](https://github.com/Francescodc92/pizzeria-front-react)
 - [progetto pizzeria fullStack frontend](https://github.com/Francescodc92/pizzeria-frontend)
-- [progetto pizzeria fullStack frontend versione React](https://github.com/Francescodc92/pizzeria-front-react)
 - [progetto pizzeria fullStack backend laravel 11](https://github.com/Francescodc92/pizzeria-backend-laravel-11)
 - [Campo minato - html css js](https://github.com/Francescodc92/js-campominato-dom)
 
