@@ -34,7 +34,7 @@
 </div>
 
 ## Progetti 
-- [progetto pizzeria fullStack frontend versione React 2025](https://github.com/Francescodc92/pizzeria-front-react)
+- [progetto pizzeria fullStack frontend versione 2025 React](https://github.com/Francescodc92/pizzeria-front-react)
 - [progetto pizzeria fullStack frontend](https://github.com/Francescodc92/pizzeria-frontend)
 - [progetto pizzeria fullStack backend laravel 11](https://github.com/Francescodc92/pizzeria-backend-laravel-11)
 - [Campo minato - html css js](https://github.com/Francescodc92/js-campominato-dom)
