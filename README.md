@@ -1,6 +1,8 @@
 ### Ciao! Mi chiamo Francesco Benvenuto sul mio GitHub👋
 <div>
  Mi presento. Sono sempre stato un ragazzo appassionato di tecnologia in generale, ma ignoravo l’esistenza della programmazione fino a circa un anno e mezzo fa. Sono molto legato a tutto ciò che riguarda la programmazione perché sono curioso di natura. Amo scoprire cose nuove e amo capire il funzionamento che c’è dietro anche a una semplice funzione. Sono dell’idea che se capisco come una cosa funziona, posso manipolarla ed usarla in maniera strategica, e non meccanica. Sono pronto a dare il 100% in tutto quello che faccio.
+
+ [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francesco-dicorpo/)
  
 </div>
 
@@ -17,7 +19,6 @@
   <img alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 </div>
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francesco-dicorpo/)
 
 
 ## Tecnologie che sto studiando
