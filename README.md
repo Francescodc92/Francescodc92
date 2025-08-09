@@ -4,12 +4,6 @@
  
 </div>
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francesco-dicorpo/)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Francescodc92)](https://github.com/anuraghazra/github-readme-stats)
-![Francescodc92 GitHub stats](https://github-readme-stats.vercel.app/api?username=Francescodc92&show_icons=true&theme=dracula)
-
-
 ## Tecnologie che uso 
 <div>
   <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -35,9 +29,17 @@
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="docker" /> 
 </div>
 
-
 ## Progetti
 - [progetto pizzeria fullStack frontend](https://github.com/Francescodc92/pizzeria-frontend)
 - [progetto pizzeria fullStack frontend versione React](https://github.com/Francescodc92/pizzeria-front-react)
 - [progetto pizzeria fullStack backend laravel 11](https://github.com/Francescodc92/pizzeria-backend-laravel-11)
 - [Campo minato - html css js](https://github.com/Francescodc92/js-campominato-dom)
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francesco-dicorpo/)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Francescodc92)](https://github.com/anuraghazra/github-readme-stats)
+![Francescodc92 GitHub stats](https://github-readme-stats.vercel.app/api?username=Francescodc92&show_icons=true&theme=dracula)
+
+
+
+
