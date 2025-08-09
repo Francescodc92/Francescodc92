@@ -41,7 +41,6 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Francescodc92)](https://github.com/anuraghazra/github-readme-stats)
-![Francescodc92 GitHub stats](https://github-readme-stats.vercel.app/api?username=Francescodc92&show_icons=true&theme=dracula)
 
 
 
